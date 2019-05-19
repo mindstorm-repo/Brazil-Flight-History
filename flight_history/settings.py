@@ -25,7 +25,7 @@ SECRET_KEY = '3aibd0fgeyyb=glg2ehq_shhiyj_ihb(nu(p%x2jg^e1q!6w7q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -77,11 +77,10 @@ WSGI_APPLICATION = 'flight_history.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'djongo',
         'NAME': 'flight_history',
-        'USER': 'dev',
-        'PASSWORD': 'dev',
-        'HOST': '192.168.0.200'
+        'HOST': '192.168.0.200',
+        'PORT': 27017
     }
 }
 
@@ -110,13 +109,13 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/Sao_Paulo'
 
 USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
+USE_TZ = False
 
 
 # Static files (CSS, JavaScript, Images)

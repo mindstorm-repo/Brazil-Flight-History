@@ -1,0 +1,139 @@
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e84"},"id":{"$numberInt":"1"},"icao":"SBAA","iata":"CDJ","name":"Aeroporto de Conceição do Araguaia","alias":"","city":"Conceição do Araguaia","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e85"},"id":{"$numberInt":"2"},"icao":"SBAE","iata":"JTC","name":"Aeroporto de Bauru-Arealva","alias":"","city":"Bauru","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e86"},"id":{"$numberInt":"3"},"icao":"SBAN","iata":"APS","name":"Base Aérea de Anápolis","alias":"","city":"Anápolis","state":" Goiás"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e87"},"id":{"$numberInt":"4"},"icao":"SBAQ","iata":"AQA","name":"Aeroporto de Araraquara","alias":"","city":"Araraquara","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e88"},"id":{"$numberInt":"5"},"icao":"SBAR","iata":"AJU","name":"Aeroporto Internacional de Aracaju|Aeroporto Santa Maria","alias":"","city":"Aracaju","state":" Sergipe"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e89"},"id":{"$numberInt":"6"},"icao":"SBAS","iata":"AIF","name":"Aeroporto de Assis","alias":"","city":"Assis (São Paulo)|Assis","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e8a"},"id":{"$numberInt":"7"},"icao":"SBAT","iata":"AFL","name":"Aeroporto de Alta Floresta","alias":"","city":"Alta Floresta","state":" Mato Grosso"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e8b"},"id":{"$numberInt":"8"},"icao":"SBAU","iata":"ARU","name":"Aeroporto de Araçatuba","alias":"","city":"Araçatuba","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e8c"},"id":{"$numberInt":"9"},"icao":"SBBE","iata":"BEL","name":"Aeroporto Internacional de Belém/Val de Cans/Júlio Cézar Ribeiro|Aeroporto Internacional Val de Cães","alias":"","city":"Belém (Pará)|Belém","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e8d"},"id":{"$numberInt":"10"},"icao":"SBBG","iata":"BGX","name":"Aeroporto Internacional Comandante Gustavo Kraemer","alias":"","city":"Bagé","state":" Rio Grande do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e8e"},"id":{"$numberInt":"11"},"icao":"SBBH","iata":"PLU","name":"Aeroporto da Pampulha","alias":"","city":"Belo Horizonte","state":" Minas Gerais"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e8f"},"id":{"$numberInt":"12"},"icao":"SBBI","iata":"BFH","name":"Aeroporto de Bacacheri","alias":"","city":"Curitiba","state":" Paraná"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e90"},"id":{"$numberInt":"13"},"icao":"SBBQ","iata":"QAK","name":"Aeroporto de Barbacena","alias":"","city":"Barbacena (Minas Gerais)|Barbacena","state":" Minas Gerais"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e91"},"id":{"$numberInt":"14"},"icao":"SBBR","iata":"BSB","name":"Aeroporto Internacional Presidente Juscelino Kubitschek","alias":"","city":"Brasília","state":" Distrito Federal (Brasil)|Distrito Federal"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e92"},"id":{"$numberInt":"15"},"icao":"SBBT","iata":"BAT","name":"Aeroporto de Barretos","alias":"","city":"Barretos","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e93"},"id":{"$numberInt":"16"},"icao":"SBBU","iata":"BAU","name":"Aeroporto de Bauru","alias":"","city":"Bauru","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e94"},"id":{"$numberInt":"17"},"icao":"SBBV","iata":"BVB","name":"Aeroporto Internacional de Boa Vista","alias":"","city":"Boa Vista (Roraima)|Boa Vista","state":" Roraima"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e95"},"id":{"$numberInt":"18"},"icao":"SBBW","iata":"BPG","name":"Aeroporto de Barra do Garças","alias":"","city":"Barra do Garças","state":" Mato Grosso"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e96"},"id":{"$numberInt":"19"},"icao":"SBBZ","iata":"BZC","name":"Aeroporto Umberto Modiano","alias":"","city":"Armação dos Búzios|Búzios","state":" Rio de Janeiro (estado)|Rio de Janeiro"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e97"},"id":{"$numberInt":"20"},"icao":"SBCA","iata":"CAC","name":"Aeroporto de Cascavel","alias":"","city":"Cascavel (Paraná)|Cascavel","state":" Paraná"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e98"},"id":{"$numberInt":"21"},"icao":"SBCB","iata":"CFB","name":"Aeroporto Internacional de Cabo Frio","alias":"","city":"Cabo Frio","state":" Rio de Janeiro (estado)|Rio de Janeiro"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e99"},"id":{"$numberInt":"22"},"icao":"SBCC","iata":"ITB","name":"Aeroporto do Cachimbo","alias":"","city":"Itaituba","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e9a"},"id":{"$numberInt":"23"},"icao":"SBCF","iata":"CNF","name":"Aeroporto Internacional Tancredo Neves","alias":"","city":"Confins","state":" Minas Gerais"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e9b"},"id":{"$numberInt":"24"},"icao":"SBCG","iata":"CGR","name":"Aeroporto Internacional de Campo Grande","alias":"","city":"Campo Grande (Mato Grosso do Sul)|Campo Grande","state":" Mato Grosso do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e9c"},"id":{"$numberInt":"25"},"icao":"SBCH","iata":"XAP","name":"Aeroporto de Chapecó","alias":"","city":"Chapecó","state":" Santa Catarina"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e9d"},"id":{"$numberInt":"26"},"icao":"SBCI","iata":"CLN","name":"Aeroporto de Carolina","alias":"","city":"Carolina (Maranhão)|Carolina","state":" Maranhão"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e9e"},"id":{"$numberInt":"27"},"icao":"SBCJ","iata":"CKS","name":"Aeroporto de Carajás","alias":"","city":"Parauapebas","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8e9f"},"id":{"$numberInt":"28"},"icao":"SBCM","iata":"CCM","name":"Aeroporto de Forquilhinha","alias":"","city":"Criciúma","state":" Santa Catarina"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ea0"},"id":{"$numberInt":"29"},"icao":"SBCN","iata":"CLV","name":"Aeroporto de Caldas Novas","alias":"","city":"Caldas Novas","state":" Goiás"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ea1"},"id":{"$numberInt":"30"},"icao":"SBCO","iata":"QNS","name":"Base Aérea de Canoas","alias":"","city":"Canoas","state":" Rio Grande do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ea2"},"id":{"$numberInt":"31"},"icao":"SBCP","iata":"CAW","name":"Aeroporto Bartolomeu Lisandro","alias":"","city":"Campos dos Goytacazes","state":" Rio de Janeiro (estado)|Rio de Janeiro"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ea3"},"id":{"$numberInt":"32"},"icao":"SBCR","iata":"CMG","name":"Aeroporto Internacional de Corumbá","alias":"","city":"Corumbá","state":" Mato Grosso do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ea4"},"id":{"$numberInt":"33"},"icao":"SBCT","iata":"CWB","name":"Aeroporto Internacional Afonso Pena","alias":"","city":"Curitiba","state":" Paraná"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ea5"},"id":{"$numberInt":"34"},"icao":"SBCV","iata":"CRQ","name":"Aeroporto de Caravelas","alias":"","city":"Caravelas (Bahia)|Caravelas","state":" Bahia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ea6"},"id":{"$numberInt":"35"},"icao":"SBCX","iata":"CXJ","name":"Aeroporto de Caxias do Sul|Aeroporto Regional de Caxias do Sul Hugo Cantergiani","alias":"","city":"Caxias do Sul","state":" Rio Grande do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ea7"},"id":{"$numberInt":"36"},"icao":"SBCY","iata":"CGB","name":"Aeroporto Internacional Marechal Rondon","alias":"","city":"Cuiabá","state":" Mato Grosso"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ea8"},"id":{"$numberInt":"37"},"icao":"SBCZ","iata":"CZS","name":"Aeroporto Internacional de Cruzeiro do Sul","alias":"","city":"Cruzeiro do Sul (Acre)|Cruzeiro do Sul","state":" Acre"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ea9"},"id":{"$numberInt":"38"},"icao":"SBDB","iata":"BYO","name":"Aeroporto de Bonito","alias":"","city":"Bonito","state":" Mato Grosso do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eaa"},"id":{"$numberInt":"39"},"icao":"SBDN","iata":"PPB","name":"Aeroporto de Presidente Prudente","alias":"","city":"Presidente Prudente","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eab"},"id":{"$numberInt":"40"},"icao":"SBEG","iata":"MAO","name":"Aeroporto Internacional Eduardo Gomes","alias":"","city":"Manaus","state":" Amazonas"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eac"},"id":{"$numberInt":"41"},"icao":"SBEK","iata":"JCR","name":"Aeroporto de Jacareacanga","alias":"","city":"Jacareacanga","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ead"},"id":{"$numberInt":"42"},"icao":"SBEX","iata":"ERM","name":"Aeroporto de Erechim","alias":"","city":"Erechim","state":" Rio Grande do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eae"},"id":{"$numberInt":"43"},"icao":"SBFI","iata":"IGU","name":"Aeroporto Internacional de Foz do Iguaçu (Cataratas Int'l","alias":"","city":"Foz do Iguaçu","state":" Paraná"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eaf"},"id":{"$numberInt":"44"},"icao":"SBFL","iata":"FLN","name":"Aeroporto Internacional Hercílio Luz","alias":"","city":"Florianópolis","state":" Santa Catarina"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eb0"},"id":{"$numberInt":"45"},"icao":"SBFN","iata":"FEN","name":"Aeroporto de Fernando de Noronha","alias":"","city":"Fernando de Noronha","state":" Pernambuco"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eb1"},"id":{"$numberInt":"46"},"icao":"SBFZ","iata":"FOR","name":"Aeroporto Internacional Pinto Martins","alias":"","city":"Fortaleza","state":" Ceará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eb2"},"id":{"$numberInt":"47"},"icao":"SBGL","iata":"GIG","name":"Aeroporto Internacional do Rio de Janeiro-Galeão","alias":"","city":"Rio de Janeiro (cidade)|Rio de Janeiro","state":" Rio de Janeiro (estado)|Rio de Janeiro"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eb3"},"id":{"$numberInt":"48"},"icao":"SBGM","iata":"GJM","name":"Aeroporto de Guajará-Mirim","alias":"","city":"Guajará-Mirim","state":" Rondônia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eb4"},"id":{"$numberInt":"49"},"icao":"SBGO","iata":"GYN","name":"Aeroporto Santa Genoveva","alias":"","city":"Goiânia","state":" Goiás"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eb5"},"id":{"$numberInt":"50"},"icao":"SBGR","iata":"GRU","name":"Aeroporto Internacional de São Paulo-Guarulhos","alias":"","city":"Guarulhos","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eb6"},"id":{"$numberInt":"51"},"icao":"SBGS","iata":"PGZ","name":"Aeroporto de Ponta Grossa","alias":"","city":"Ponta Grossa","state":" Paraná"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eb7"},"id":{"$numberInt":"52"},"icao":"SBGW","iata":"GUJ","name":"Aeroporto de Guaratinguetá","alias":"","city":"Guaratinguetá","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eb8"},"id":{"$numberInt":"53"},"icao":"SBHT","iata":"ATM","name":"Aeroporto de Altamira","alias":"","city":"Altamira","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eb9"},"id":{"$numberInt":"54"},"icao":"SBIC","iata":"ITA","name":"Aeroporto de Itacoatiara","alias":"","city":"Itacoatiara (Amazonas)|Itacoatiara","state":" Amazonas"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eba"},"id":{"$numberInt":"56"},"icao":"SBIL","iata":"IOS","name":"Aeroporto de Ilhéus - Jorge Amado","alias":"","city":"Ilhéus","state":" Bahia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ebb"},"id":{"$numberInt":"57"},"icao":"SBIP","iata":"IPN","name":"Aeroporto de Ipatinga","alias":"","city":"Ipatinga","state":" Minas Gerais"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ebc"},"id":{"$numberInt":"58"},"icao":"SBIZ","iata":"IMP","name":"Aeroporto Prefeito Renato Moreira","alias":"","city":"Imperatriz (Maranhão)|Imperatriz","state":" Maranhão"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ebd"},"id":{"$numberInt":"59"},"icao":"SBJD","iata":"QDV","name":"Aeroporto de Jundiaí|Aeroporto Comandante Rolim Adolfo Amaro","alias":"","city":"Jundiaí","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ebe"},"id":{"$numberInt":"60"},"icao":"SBJI","iata":"JPR","name":"Aeroporto de Ji-Paraná","alias":"","city":"Ji-Paraná","state":" Rondônia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ebf"},"id":{"$numberInt":"61"},"icao":"SBJF","iata":"JDF","name":"Aeroporto de Juiz de Fora","alias":"","city":"Juiz de Fora","state":" Minas Gerais"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ec0"},"id":{"$numberInt":"62"},"icao":"SBJP","iata":"JPA","name":"Aeroporto Internacional Presidente Castro Pinto","alias":"","city":"João Pessoa","state":" Paraíba"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ec1"},"id":{"$numberInt":"63"},"icao":"SBJR","iata":"N/A","name":"Aeroporto de Jacarepaguá","alias":"","city":"Rio de Janeiro (cidade)|Rio de Janeiro","state":" Rio de Janeiro (estado)|Rio de Janeiro"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ec2"},"id":{"$numberInt":"64"},"icao":"SBJV","iata":"JOI","name":"Aeroporto de Joinville|Aeroporto de Joinville-Lauro Carneiro de Loyola","alias":"","city":"Joinville","state":" Santa Catarina"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ec3"},"id":{"$numberInt":"65"},"icao":"SBKG","iata":"CPV","name":"Aeroporto de Campina Grande","alias":"","city":"Campina Grande","state":" Paraíba"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ec4"},"id":{"$numberInt":"66"},"icao":"SBKP","iata":"VCP","name":"Aeroporto Internacional de Viracopos","alias":"","city":"Campinas","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ec5"},"id":{"$numberInt":"67"},"icao":"SBLB","iata":"LBR","name":"Aeroporto de Lábrea","alias":"","city":"Lábrea","state":" Amazonas"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ec6"},"id":{"$numberInt":"68"},"icao":"SBLE","iata":"LEC","name":"Aeroporto de Lençóis|Aeroporto Horácio de Mattos","alias":"","city":"Lençóis","state":" Bahia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ec7"},"id":{"$numberInt":"69"},"icao":"SBLJ","iata":"LAJ","name":"Aeroporto de Lages","alias":"","city":"Lages","state":" Santa Catarina"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ec8"},"id":{"$numberInt":"70"},"icao":"SBLN","iata":"LIP","name":"Aeroporto de Lins","alias":"","city":"Lins","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ec9"},"id":{"$numberInt":"71"},"icao":"SBLO","iata":"LDB","name":"Aeroporto de Londrina","alias":"","city":"Londrina","state":" Paraná"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eca"},"id":{"$numberInt":"72"},"icao":"SBLP","iata":"LAZ","name":"Aeroporto de Bom Jesus da Lapa","alias":"","city":"Bom Jesus da Lapa","state":" Bahia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ecb"},"id":{"$numberInt":"73"},"icao":"SBMA","iata":"MAB","name":"Aeroporto de Marabá","alias":"","city":"Marabá","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ecc"},"id":{"$numberInt":"74"},"icao":"SBMC","iata":"MQH","name":"Aeroporto de Minaçu","alias":"","city":"Minaçu","state":" Goiás"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ecd"},"id":{"$numberInt":"75"},"icao":"SBMD","iata":"MEU","name":"Aeroporto de Monte Dourado","alias":"","city":"Almeirim","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ece"},"id":{"$numberInt":"76"},"icao":"SBME","iata":"MEA","name":"Aeroporto de Macaé","alias":"","city":"Macaé","state":" Rio de Janeiro (estado)|Rio de Janeiro"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ecf"},"id":{"$numberInt":"77"},"icao":"SBMG","iata":"MGF","name":"Aeroporto de Maringá","alias":"","city":"Maringá","state":" Paraná"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ed0"},"id":{"$numberInt":"78"},"icao":"SBMK","iata":"MOC","name":"Aeroporto de Montes Claros","alias":"","city":"Montes Claros","state":" Minas Gerais"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ed1"},"id":{"$numberInt":"79"},"icao":"SBML","iata":"MII","name":"Aeroporto de Marília","alias":"","city":"Marília","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ed2"},"id":{"$numberInt":"80"},"icao":"SBMN","iata":"PLL","name":"Aeroporto de Ponta Pelada","alias":"","city":"Manaus","state":" Amazonas"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ed3"},"id":{"$numberInt":"81"},"icao":"SBMO","iata":"MCZ","name":"Aeroporto Zumbi dos Palmares (Campo dos Palmares","alias":"","city":"Maceió","state":" Alagoas"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ed4"},"id":{"$numberInt":"82"},"icao":"SBMQ","iata":"MCP","name":"Aeroporto Internacional de Macapá","alias":"","city":"Macapá","state":" Amapá"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ed5"},"id":{"$numberInt":"83"},"icao":"SBMS","iata":"MVF","name":"Aeroporto Dix-Sept Rosado","alias":"","city":"Mossoró","state":" Rio Grande do Norte"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ed6"},"id":{"$numberInt":"84"},"icao":"SBMT","iata":"SAO","name":"Aeroporto Campo de Marte","alias":"","city":"São Paulo (cidade)|São Paulo","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ed7"},"id":{"$numberInt":"85"},"icao":"SBMY","iata":"MNX","name":"Aeroporto de Manicoré","alias":"","city":"Manicoré","state":" Amazonas"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ed8"},"id":{"$numberInt":"86"},"icao":"SBNF","iata":"NVT","name":"Aeroporto Internacional Ministro Victor Konder","alias":"","city":"Navegantes","state":" Santa Catarina"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ed9"},"id":{"$numberInt":"87"},"icao":"SBNM","iata":"GEL","name":"Aeroporto de Santo Ângelo","alias":"","city":"Santo Ângelo","state":" Rio Grande do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eda"},"id":{"$numberInt":"88"},"icao":"SBOI","iata":"OYK","name":"Aeroporto de Oiapoque","alias":"","city":"Oiapoque","state":" Amapá"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8edb"},"id":{"$numberInt":"89"},"icao":"SBOU","iata":"OUS","name":"Aeroporto de Ourinhos","alias":"","city":"Ourinhos","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8edc"},"id":{"$numberInt":"90"},"icao":"SBPA","iata":"POA","name":"Aeroporto Internacional Salgado Filho","alias":"","city":"Porto Alegre","state":" Rio Grande do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8edd"},"id":{"$numberInt":"91"},"icao":"SBPB","iata":"PHB","name":"Aeroporto Prefeito Dr. João Silva Filho","alias":"","city":"Piauí","state":" Parnaíba"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ede"},"id":{"$numberInt":"92"},"icao":"SBPC","iata":"POO","name":"Aeroporto de Poços de Caldas","alias":"","city":"Poços de Caldas","state":" Minas Gerais"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8edf"},"id":{"$numberInt":"93"},"icao":"SBPF","iata":"PFB","name":"Aeroporto Lauro Kurtz","alias":"","city":"Passo Fundo","state":" Rio Grande do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ee0"},"id":{"$numberInt":"94"},"icao":"SBPG","iata":"PNG","name":"Aeroporto de Paranaguá","alias":"","city":"Paranaguá","state":" Paraná"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ee1"},"id":{"$numberInt":"95"},"icao":"SBPI","iata":"QPE","name":"Aeroporto de Pico do Couto","alias":"","city":"Petrópolis","state":" Rio de Janeiro (estado)|Rio de Janeiro"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ee2"},"id":{"$numberInt":"96"},"icao":"SBPJ","iata":"PMW","name":"Aeroporto de Palmas","alias":"","city":"Palmas","state":" Tocantins"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ee3"},"id":{"$numberInt":"97"},"icao":"SBPK","iata":"PET","name":"Aeroporto Internacional de Pelotas|Aeroporto Internacional Joao Simoes Lopez Neto","alias":"","city":"Pelotas","state":" Rio Grande do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ee4"},"id":{"$numberInt":"98"},"icao":"SBPL","iata":"PNZ","name":"Aeroporto de Petrolina","alias":"","city":"Petrolina","state":" Pernambuco"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ee5"},"id":{"$numberInt":"99"},"icao":"SBPN","iata":"PNB","name":"Aeroporto de Porto Nacional","alias":"","city":"Porto Nacional","state":" Goiás"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ee6"},"id":{"$numberInt":"100"},"icao":"SBPP","iata":"PMG","name":"Aeroporto Internacional de Ponta Porã","alias":"","city":"Ponta Porã","state":" Mato Grosso do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ee7"},"id":{"$numberInt":"101"},"icao":"SBPS","iata":"BPS","name":"Aeroporto de Porto Seguro","alias":"","city":"Porto Seguro","state":" Bahia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ee8"},"id":{"$numberInt":"102"},"icao":"SBPV","iata":"PVH","name":"Aeroporto Internacional Governador Jorge Teixeira de Oliveira","alias":"","city":"Porto Velho","state":" Rondônia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ee9"},"id":{"$numberInt":"103"},"icao":"SBQV","iata":"VDC","name":"Aeroporto de Vitória da Conquista","alias":"","city":"Vitória da Conquista","state":" Bahia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eea"},"id":{"$numberInt":"104"},"icao":"SBRB","iata":"RBR","name":"Aeroporto Internacional de Rio Branco","alias":"","city":"Rio Branco","state":" Acre"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eeb"},"id":{"$numberInt":"105"},"icao":"SBRF","iata":"REC","name":"Aeroporto Internacional dos Guararapes","alias":"","city":"Recife","state":" Pernambuco"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eec"},"id":{"$numberInt":"106"},"icao":"SBRG","iata":"RIG","name":"Aeroporto de Rio Grande","alias":"","city":"Rio Grande","state":" Rio Grande do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eed"},"id":{"$numberInt":"107"},"icao":"SBRJ","iata":"SDU","name":"Aeroporto Santos Dumont","alias":"","city":"Rio de Janeiro (cidade)|Rio de Janeiro","state":" Rio de Janeiro (estado)|Rio de Janeiro"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eee"},"id":{"$numberInt":"108"},"icao":"SBRP","iata":"RAO","name":"Aeroporto Leite Lopes","alias":"","city":"Ribeirão Preto","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eef"},"id":{"$numberInt":"109"},"icao":"SBSC","iata":"SNZ","name":"Base Aérea de Santa Cruz","alias":"","city":"Santa Cruz (bairro do Rio de Janeiro)|Santa Cruz","state":" Rio de Janeiro (estado)|Rio de Janeiro"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ef0"},"id":{"$numberInt":"110"},"icao":"SBSG","iata":"NAT","name":"Aeroporto Internacional Governador Aluízio Alves","alias":"","city":"Natal (Rio Grande do Norte)|Natal","state":" Rio Grande do Norte"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ef1"},"id":{"$numberInt":"111"},"icao":"SBSJ","iata":"SJK","name":"Aeroporto de São José dos Campos","alias":"","city":"São José dos Campos","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ef2"},"id":{"$numberInt":"112"},"icao":"SBSL","iata":"SLZ","name":"Aeroporto Internacional Marechal Cunha Machado","alias":"","city":"São Luís (Maranhão)|São Luís","state":" Maranhão"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ef3"},"id":{"$numberInt":"113"},"icao":"SBSM","iata":"RIA","name":"Aeroporto de Santa Maria (Rio Grande do Sul)|Aeroporto de Santa Maria","alias":"","city":"Santa Maria (Rio Grande do Sul)|Santa Maria","state":" Rio Grande do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ef4"},"id":{"$numberInt":"114"},"icao":"SBSN","iata":"STM","name":"Aeroporto Internacional de Santarém","alias":"","city":"Santarém (Pará)|Santarém","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ef5"},"id":{"$numberInt":"115"},"icao":"SBSP","iata":"CGH","name":"Aeroporto Internacional de Congonhas-São Paulo","alias":"","city":"São Paulo (cidade)|São Paulo","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ef6"},"id":{"$numberInt":"116"},"icao":"SBSR","iata":"SJP","name":"Aeroporto de São José do Rio Preto","alias":"","city":"São José do Rio Preto","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ef7"},"id":{"$numberInt":"117"},"icao":"SBST","iata":"SSZ","name":"Base Aérea de Santos","alias":"","city":"Santos","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ef8"},"id":{"$numberInt":"118"},"icao":"SBSV","iata":"SSA","name":"Aeroporto Internacional Deputado Luís Eduardo Magalhães","alias":"","city":"Salvador (Bahia)|Salvador","state":" Bahia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8ef9"},"id":{"$numberInt":"119"},"icao":"SBSY","iata":"IDO","name":"Aeroporto de Santa Isabel do Morro","alias":"","city":"Lagoa da Confusão","state":" Tocantins"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8efa"},"id":{"$numberInt":"120"},"icao":"SBTB","iata":"TMT","name":"Aeroporto de Porto Trombetas","alias":"","city":"Porto Trombetas","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8efb"},"id":{"$numberInt":"121"},"icao":"SBTD","iata":"TOW","name":"Aeroporto de Toledo|Aeroporto Luiz Dall Canalle Filho","alias":"","city":"Toledo","state":" Paraná"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8efc"},"id":{"$numberInt":"122"},"icao":"SBTE","iata":"THE","name":"Aeroporto de Teresina","alias":"","city":"Teresina","state":" Piauí"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8efd"},"id":{"$numberInt":"123"},"icao":"SBTF","iata":"TFF","name":"Aeroporto de Tefé","alias":"","city":"Tefé","state":" Amazonas"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8efe"},"id":{"$numberInt":"124"},"icao":"SBTG","iata":"TLG","name":"Aeroporto de Três Lagoas","alias":"","city":"Três Lagoas","state":" Mato Grosso do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8eff"},"id":{"$numberInt":"125"},"icao":"SBTK","iata":"TRQ","name":"Aeroporto de Tarauacá","alias":"","city":"Tarauacá","state":" Acre"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f00"},"id":{"$numberInt":"126"},"icao":"SBTL","iata":"TEC","name":"Aeroporto de Telêmaco Borba","alias":"","city":"Telêmaco Borba","state":" Paraná"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f01"},"id":{"$numberInt":"128"},"icao":"SBTS","iata":"OBI","name":"Aeroporto de Óbidos","alias":"","city":"Óbidos (Pará)|Óbidos","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f02"},"id":{"$numberInt":"129"},"icao":"SBTT","iata":"TBT","name":"Aeroporto Internacional de Tabatinga","alias":"","city":"Tabatinga (Amazonas)|Tabatinga","state":" Amazonas"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f03"},"id":{"$numberInt":"130"},"icao":"SBTU","iata":"TUR","name":"Aeroporto de Tucuruí","alias":"","city":"Tucuruí","state":" Pará"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f04"},"id":{"$numberInt":"131"},"icao":"SBTX","iata":"QTB","name":"Aeroporto de Tubarão","alias":"","city":"Tubarão (Santa Catarina)|Tubarão","state":" Santa Catarina"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f05"},"id":{"$numberInt":"132"},"icao":"SBUA","iata":"SJL","name":"Aeroporto de São Gabriel da Cachoeira","alias":"","city":"São Gabriel da Cachoeira","state":" Amazonas"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f06"},"id":{"$numberInt":"133"},"icao":"SBUF","iata":"PAV","name":"Aeroporto de Paulo Afonso","alias":"","city":"Paulo Afonso","state":" Bahia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f07"},"id":{"$numberInt":"134"},"icao":"SBUG","iata":"URG","name":"Aeroporto Rubem Berta","alias":"","city":"Uruguaiana","state":" Rio Grande do Sul"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f08"},"id":{"$numberInt":"135"},"icao":"SBUL","iata":"UDI","name":"Aeroporto de Uberlândia","alias":"","city":"Uberlândia","state":" Minas Gerais"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f09"},"id":{"$numberInt":"136"},"icao":"SBUP","iata":"URB","name":"Aeroporto de Urubupungá","alias":"","city":"Castilho","state":" São Paulo (estado)|São Paulo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f0a"},"id":{"$numberInt":"137"},"icao":"SBUR","iata":"UBA","name":"Aeroporto de Uberaba","alias":"","city":"Uberaba","state":" Minas Gerais"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f0b"},"id":{"$numberInt":"138"},"icao":"SBVG","iata":"VAG","name":"Aeroporto de Varginha","alias":"","city":"Varginha","state":" Minas Gerais"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f0c"},"id":{"$numberInt":"139"},"icao":"SBVH","iata":"BVH","name":"Aeroporto Brigadeiro Camarão","alias":"","city":"Vilhena","state":" Rondônia"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f0d"},"id":{"$numberInt":"140"},"icao":"SBVT","iata":"VIX","name":"Aeroporto de Vitória","alias":"","city":"Vitória (Espírito Santo)|Vitória","state":" Espírito Santo (estado)|Espírito Santo"}
+{"_id":{"$oid":"5cdec67df46cd0bcab2e8f0e"},"id":{"$numberInt":"143"},"icao":"SBYS","iata":"QPS","name":"Aeródromo Campo de Fontenelle","alias":"","city":"Pirassununga","state":" São Paulo (estado)|São Paulo"}

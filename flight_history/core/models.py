@@ -55,10 +55,8 @@ class Flight(models.Model):
     line = models.CharField(max_length=1, choices=TYPE_LINE,
                             default='N', verbose_name='Código da Linha')
 
-    departure = models.ForeignKey(
-        'Airport', related_name='departure_airpot', on_delete=models.CASCADE, verbose_name='Aeroporto de Origem')
-    arrival = models.ForeignKey(
-        'Airport', related_name='arrival_airpot', on_delete=models.CASCADE, verbose_name='Aeroporto de Destino')
+    departure = models.CharField(max_length=4, primary_key=True, verbose_name='Aeroporto de Origem')
+    arrival = models.CharField(max_length=4, primary_key=True, verbose_name='Aeroporto de Destino')
 
     departure_date = models.DateTimeField(
         auto_now=False, auto_now_add=False, blank=True, null=True, verbose_name='Partida Prevista')
